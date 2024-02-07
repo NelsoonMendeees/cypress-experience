@@ -1,0 +1,26 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Bootcamp Cypress eXperience - QAX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Nelson Mendes",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.3.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.0",
+    "@mmisty/cypress-allure-adapter": "^0.16.2",
+    "allure-commandline": "^2.27.0",
+    "cypress-mongodb": "^6.2.0",
+    "cypress-tesults-reporter": "^1.4.1",
+    "dotenv": "^16.4.1",
+    "underscore": "^1.13.6"
+  }
+}

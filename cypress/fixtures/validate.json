@@ -1,0 +1,52 @@
+{
+  "orphanages": [
+    {
+      "label": "Nome",
+      "scenario": "não deve cadastrar se o Nome não for preenchido",
+      "description": "O Lar da Esperança é um lugar alegre e seguro para crianças que precisam de apoio.",
+      "opening_hours": "Segunda a Sexta-feira, 8h00 - 18h00",
+      "open_on_weekends": "Não",
+      "bool": false,
+      "latitude": -16.360106514865482,
+      "longitude": -48.956869840621955,
+      "image": "kids-playground-5.png",
+      "text": "Campo obrigatório"
+    },
+    {
+      "label": "Sobre",
+      "scenario": "não deve cadastrar se o Sobre não for preenchido",
+      "name": "Casa da Acolhida",
+      "opening_hours": "Segunda a Sexta-feira, 8h00 - 18h00",
+      "open_on_weekends": "Não",
+      "bool": false,
+      "latitude": -15.860924692073475,
+      "longitude": -47.954741397203014,
+      "image": "kids-playground-6.png",
+      "text": "Campo obrigatório"
+    },
+    {
+      "label": "Fotos",
+      "scenario": "não deve cadastrar se uma Foto não for anexada",
+      "name": "Refúgio da Infância Feliz",
+      "description": "O Refúgio da Infância Feliz proporciona um lar amoroso para crianças em situações vulneráveis.",
+      "opening_hours": "Segunda a Sexta-feira, 8h00 - 18h00",
+      "open_on_weekends": "Não",
+      "bool": false,
+      "latitude": -17.800319426439503,
+      "longitude": -49.34261182749681,
+      "text": "Envie pelo menos uma foto"
+    },
+    {
+      "label": "Horário de funcinamento",
+      "scenario": "não deve cadastrar se o Horário de Funcionamento não for preenchido",
+      "name": "Abrigo das Crianças Sorridentes",
+      "description": "O Abrigo das Crianças Sorridentes é um lugar onde sorrisos florescem e esperanças renascem.",
+      "open_on_weekends": "Não",
+      "bool": false,
+      "latitude": -16.70051019678166,
+      "longitude": -49.31250914851448,
+      "image": "kids-playground-8.png",
+      "text": "Campo obrigatório"
+    }
+  ]
+}

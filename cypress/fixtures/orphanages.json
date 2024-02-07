@@ -1,0 +1,45 @@
+{
+  "create": {
+    "name": "Orfanato da Felicidade",
+    "description": "O Orfanato da Felicidade é um lugar alegre e seguro para crianças que precisam de apoio.",
+    "opening_hours": "Segunda a Sexta-feira, 8h00 - 18h00",
+    "open_on_weekends": false,
+    "latitude": -16.360106514865482,
+    "longitude": -48.956869840621955,
+    "image": "kids-playground-1.png"
+  },
+  "duplicate": {
+    "name": "Lar das Crianças",
+    "description": "O Lar das Crianças é um orfanato dedicado a proporcionar um ambiente amoroso e educativo.",
+    "opening_hours": "Segunda a Sexta-feira, 8h00 - 18h00",
+    "open_on_weekends": true,
+    "latitude": -16.362680105150115,
+    "longitude": -48.95827531814576,
+    "image": "kids-playground-2.png"
+  },
+  "map": {
+    "name": "Casa Esperança",
+    "description": "A Casa Esperança é um refúgio acolhedor para crianças em situações difíceis.",
+    "opening_hours": "Segunda a Sexta-feira, 8h00 - 18h00",
+    "open_on_weekends": false,
+    "latitude": -16.362144801166373,
+    "longitude": -48.957642316818244,
+    "image": "kids-playground-3.png"
+  },
+  "c": {
+    "name": "Lar das Borboletas",
+    "description": "O Lar das Borboletas é um orfanato que se preocupa com o bem-estar físico e emocional das crianças.",
+    "opening_hours": "Segunda a Sexta-feira, 8h00 - 18h00",
+    "open_on_weekends": false,
+    "latitude": -16.362433041955462,
+    "longitude": -48.95450949668885
+  },
+  "d": {
+    "name": "Instituto Vida Nova",
+    "description": "O Instituto Vida Nova oferece oportunidades educacionais e suporte emocional para crianças órfãs.",
+    "opening_hours": "Segunda a Sexta-feira, 8h00 - 18h00",
+    "open_on_weekends": false,
+    "latitude": -16.360209459128473,
+    "longitude": -48.9601743221283
+  }
+}
